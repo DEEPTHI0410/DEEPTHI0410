@@ -1,9 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Deepthi</h1>
 <h3 align="center">Passionate student eager to work in cloud computing, software development, web development, android development, and coding. Enthusiastic about innovation and staying up-to-date with emerging technologies. Let's create something great together!</h3>
-<img align="right" width="100" height="100" src="https://drive.google.com/file/d/1wfNy427HibNe27dQTV01ZhoCpHzFF3hv/view?usp=share_link">
 
-
+<span></span>
 
 - 🔭 I’m currently working on **my Coding skills**
 
